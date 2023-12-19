@@ -3,3 +3,5 @@ water
 vegetables
 flowers
 friends
+pen
+pencil
