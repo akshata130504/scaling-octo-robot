@@ -8,3 +8,5 @@ That executes on behalf of operating system.
 When a computer system executes on behalf of user -user mode.
 system call-mechanism used by program to request services from o.s.
 tree is green.
+flower is beautiful.
+fruits are tasty.
