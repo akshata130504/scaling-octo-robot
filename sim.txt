@@ -1,0 +1,6 @@
+flowers
+fruits
+vegetables
+school
+students
+college
